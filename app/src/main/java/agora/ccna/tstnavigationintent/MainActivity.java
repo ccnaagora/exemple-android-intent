@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    //gestionnaire de l'événement déclenché lorsqu'une activité retourne un résultat.
+    //gestionnaire de l'événement  lorsqu'une activité retourne un résultat.
     @Override
     public void onActivityResult(int  idItRetour, int codeRetour, Intent itretour){
         super.onActivityResult(idItRetour , codeRetour , itretour);
